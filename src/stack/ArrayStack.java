@@ -1,3 +1,5 @@
+package stack;
+
 public class ArrayStack implements Stack {
     private int[] data;
     private int topindex = 0;

@@ -1,3 +1,5 @@
+package stack;
+
 public class Bhf {
     private Stack gleisA;
     private Stack gleisB;

@@ -1,3 +1,5 @@
+package stack;
+
 public interface Stack {
     // liefert true, falls Keller leer, sonst false
     boolean isEmpty();
